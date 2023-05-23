@@ -1,0 +1,14 @@
+entries:
+  - title: info
+    entries:
+      - title: a (nearly) no-CSS, fast, minimalist Jekyll theme.
+
+  - title: all posts
+    post_list:
+      limit: 5
+      show_more: true
+      show_more_text: See archive...
+      show_more_url: archive.html
+
+  - title: rss
+    url: feed.xml
