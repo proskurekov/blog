@@ -9,6 +9,7 @@ url: "https://proskurekov.github.io" # the base hostname & protocol for your sit
 github_username:  proskurekov
 
 # Build settings
-theme: minima
+#theme: minima
+remote_theme: 'no-style-please'
 plugins:
   - jekyll-feed
